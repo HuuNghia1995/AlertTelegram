@@ -1,0 +1,8 @@
+Vao telegram tim Bot: BotFather, nhap /token
+vao group co Bot chat cua ban, gui mot vai tin nhan
+vao link ban se thay chat Bot Group ID
+https://api.telegram.org/bot<your-bot-token>/getUpdates
+
+https://api.telegram.org/bot6043570611:AAHXWtN1itRgpv5jyla-AnQerPtxzMOPY-I/getUpdates
+
+https://api.telegram.org/bot6043570611:AAHXWtN1itRgpv5jyla-AnQerPtxzMOPY-I/sendMessage?chat_id=-1001877797552&text=loi
